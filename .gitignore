@@ -14,7 +14,6 @@ frontend/out/
 frontend/next-env.d.ts
 
 # IDE
-.vscode/
 .idea/
 *.swp
 *.swo
@@ -24,11 +23,9 @@ frontend/next-env.d.ts
 Thumbs.db
 
 # Environment
-.env
-.env.local
-.env.production
 deployed.json
 
 # Logs
 *.log
 contracts/**/test_snapshots/
+config.bat
